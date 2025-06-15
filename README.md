@@ -1,10 +1,3 @@
-# 커피 한잔으로 응원 해 주세요
-[![kofi](https://github.com/user-attachments/assets/c5bc947c-4b52-4013-b432-f898bd6bea87)](https://smartstore.naver.com/retrogboy/products/11971195682)
-
-Piggy Launcher는 여러분의 응원과 후원으로 유지됩니다.
-
-후원금은 Piggy Launcher의 유지보수와 서버 운영 비용으로 사용 됩니다.
-
 # PiggyLauncher
 ![image](https://github.com/user-attachments/assets/9ad37187-d987-4138-9378-ca76a4f8cabf)
 
@@ -14,16 +7,30 @@ Piggy Launcher는 여러분의 응원과 후원으로 유지됩니다.
 
 다운로드 0.0.5 : https://drive.google.com/file/d/12YfNQTEfq8A7LxtfZeM9vLD1ZHm0wMuE/view?usp=sharing
 ***
+# 커피 한잔으로 응원 해 주세요
+[![kofi](https://github.com/user-attachments/assets/c5bc947c-4b52-4013-b432-f898bd6bea87)](https://smartstore.naver.com/retrogboy/products/11971195682)
+
+Piggy Launcher는 여러분의 응원과 후원으로 유지됩니다.
+
+후원금은 Piggy Launcher의 유지보수와 서버 운영 비용으로 사용 됩니다.
+
+## 후원자 특전
+
+후원을 1회 이상 해 주신 이용자 분들께는 아래의 특전을 드립니다.
+
+- 카테고리 생성제한 10 → 30 상향
+- 수동등록 / 수정 모드에서 메타데이터 검색 기능 활성화
+- 배치 실행 설정 제한 1개 → 3개 상향
+- 고급 설정 기능 (실행 시 해상도/볼륨 변경) 활성화
+- 후원 횟수에 따라 감사의 마음을 담은 작은 선물을 보내드립니다.
+
+***
 
 # 알려진 문제
 
 특정 기능 사용 시 CPU 점유율이 30%까지 올라감
 
-사용자 정보(로그인 기능) 미구현
-
 테마 기능 미구현
-
-새 카테고리 등록 시 카테고리 설정 화면에서 프로필 화면으로 튕기는 오류
 
 ***
 
@@ -41,6 +48,9 @@ Piggy Launcher는 여러분의 응원과 후원으로 유지됩니다.
 
 자동 업데이트 관련 알림 표시 좌표 수정 완료
 
+사용자 정보(로그인 기능) 구현완료
+
+새 카테고리 등록 시 카테고리 설정 화면에서 프로필 화면으로 튕기는 오류 수정 완료
 
 ***
 
