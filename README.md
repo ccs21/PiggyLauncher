@@ -5,7 +5,8 @@
 사용법 및 안내는 위키 참조.
 !https://github.com/ccs21/PiggyLauncher/wiki
 
-
+다운로드 0.0.5
+!https://drive.google.com/file/d/12YfNQTEfq8A7LxtfZeM9vLD1ZHm0wMuE/view?usp=sharing
 ***
 
 # 알려진 문제
