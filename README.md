@@ -2,11 +2,10 @@
 ![image](https://github.com/user-attachments/assets/9ad37187-d987-4138-9378-ca76a4f8cabf)
 
 
-사용법 및 안내는 위키 참조.
-![]https://github.com/ccs21/PiggyLauncher/wiki
+사용법 및 안내 : https://github.com/ccs21/PiggyLauncher/wiki
 
-다운로드 0.0.5
-![]https://drive.google.com/file/d/12YfNQTEfq8A7LxtfZeM9vLD1ZHm0wMuE/view?usp=sharing
+
+다운로드 0.0.5 : https://drive.google.com/file/d/12YfNQTEfq8A7LxtfZeM9vLD1ZHm0wMuE/view?usp=sharing
 ***
 
 # 알려진 문제
