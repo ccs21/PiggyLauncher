@@ -1,3 +1,10 @@
+# 커피 한잔으로 응원 해 주세요
+[![kofi](https://github.com/user-attachments/assets/c5bc947c-4b52-4013-b432-f898bd6bea87)](https://smartstore.naver.com/retrogboy/products/11971195682)
+
+Piggy Launcher는 여러분의 응원과 후원으로 유지됩니다.
+
+후원금은 Piggy Launcher의 유지보수와 서버 운영 비용으로 사용 됩니다.
+
 # PiggyLauncher
 ![image](https://github.com/user-attachments/assets/9ad37187-d987-4138-9378-ca76a4f8cabf)
 
