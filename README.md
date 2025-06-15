@@ -2,10 +2,9 @@
 ![image](https://github.com/user-attachments/assets/9ad37187-d987-4138-9378-ca76a4f8cabf)
 
 
-사용법 및 안내 : https://github.com/ccs21/PiggyLauncher/wiki
+사용법 및 안내 : [위키 페이지로 이동](https://github.com/ccs21/PiggyLauncher/wiki)
 
-
-다운로드 0.0.5 : https://drive.google.com/file/d/12YfNQTEfq8A7LxtfZeM9vLD1ZHm0wMuE/view?usp=sharing
+다운로드 : [다운로드 페이지로 이동](https://drive.google.com/drive/folders/1tI50owwfxLCrz6XlGPoFk3hqU9Rkebvq?usp=sharing)
 ***
 # 커피 한잔으로 응원 해 주세요
 [![kofi](https://github.com/user-attachments/assets/c5bc947c-4b52-4013-b432-f898bd6bea87)](https://smartstore.naver.com/retrogboy/products/11971195682)
