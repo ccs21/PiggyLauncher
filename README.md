@@ -4,7 +4,7 @@
 
 사용법 및 안내 : [위키 페이지로 이동](https://github.com/ccs21/PiggyLauncher/wiki)
 
-다운로드 : [크롬 브라우저 필수](https://www.google.com/intl/ko_kr/chrome/) [다운로드 페이지로 이동](https://drive.google.com/drive/folders/1tI50owwfxLCrz6XlGPoFk3hqU9Rkebvq?usp=sharing)
+다운로드 : [크롬 브라우저 필수](https://www.google.com/intl/ko_kr/chrome/) / [다운로드 페이지로 이동](https://drive.google.com/drive/folders/1tI50owwfxLCrz6XlGPoFk3hqU9Rkebvq?usp=sharing)
 
 버그리포트 : [버그리포트](https://kwtech.co.kr:5443/bug-report)
 ***
