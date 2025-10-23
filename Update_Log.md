@@ -3,6 +3,13 @@
 게임패드 자동 맵핑 DB 업데이트
 - 0300e6a7c82d00000631000000007200 (8BitDo Ultimate wireless Controller for PC)
 
+## 2025년 10월 19일
+- 030000b9050b00004c1b000002007200  ASUSTeK Computer Inc.
+- 0300c844861a000010e3000000007200  Controller (Legion Go S)
+  
+## 2025년10월 11일
+- 0300b3bcc82d00000631000000007200  (Ultimate Wireless Controller)
+
 ## 2025년 10월 9일
 게임패드 자동 맵핑 DB 업데이트
 - 030000b9050b00004c1b000002007200 ASUSTeK Computer Inc.
@@ -476,6 +483,7 @@ CPU 자원 누수 문제 해결
 ## 2025년 6월 10일
 
 테스트 버전 최초 배포
+
 
 
 
