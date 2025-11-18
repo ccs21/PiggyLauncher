@@ -49,8 +49,7 @@ E-Mail 주소는 사용자를 식별하기 위해 사용 합니다.
 
 Piggy Launcher는 상용 소프트웨어입니다.
 무단 배포 또는 리버스 엔지니어링을 금지합니다.
-***
-<img width="171" height="77" alt="plauncher" src="https://github.com/user-attachments/assets/5a66eb70-0d02-4ad1-874d-adbf6f836d62" />
+
 
 
 
@@ -58,3 +57,6 @@ Created by 레트로겜보이(돼둥이)
 
 Piggy Launcher is proprietary software.
 Unauthorized distribution or reverse engineering is prohibited.
+
+***
+<img width="171" height="77" alt="plauncher" src="https://github.com/user-attachments/assets/5a66eb70-0d02-4ad1-874d-adbf6f836d62" />
