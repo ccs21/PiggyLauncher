@@ -1,1 +1,20 @@
+{
+  "cooldown_sec": 3600,
+  "coupang": {
+    "id": 928124,
+    "trackingCode": "AF7282001",
+    "subId": null,
+    "template": "carousel",
+    "width": 680,
+    "height": 140
+  },
+  "ui": {
+    "panel_margin_bottom_px": 20,
+    "panel_padding_px": 16,
+    "panel_radius_px": 16,
+    "panel_bg_rgba": "rgba(255,255,255,0.75)",
+    "anim_ms": 260,
+    "wifi_min_strength": 20
+  }
+}
 
