@@ -12,7 +12,7 @@
     "panel_margin_bottom_px": 20,
     "panel_padding_px": 16,
     "panel_radius_px": 16,
-    "panel_bg_rgba": "rgba(255,255,255,0.75)",
+    "panel_bg_rgba": "rgba(255,255,255,1.0)",
     "anim_ms": 260,
     "wifi_min_strength": 20,
     "tsource": ""
