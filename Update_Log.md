@@ -1,6 +1,31 @@
 # 업데이트 내역
 
+## 2026년 4월 4일
+스팀 신규 이미지 다운로드 저장소 지원으로 최근 발매된 게임의 썸네일과 헤더이미지의 수집을 지원합니다.
 
+## 2026년 2월 17일
+- XBOX 에뮬레이터 XEMU가 지원 에뮬레이터에 추가 되었습니다.
+- XBOX360 에뮬레이터 Xenia_canary가 지원 에뮬레이터에 추가 되었습니다.
+- 스크린 스크래퍼 지원 기종 추가 (스위치, XBOX, XBOX360)
+
+게임패드 자동 맵핑 DB 업데이트
+- 03000633d90400000800000000000000  SAULABI USB GamePad
+- 030056fb7e0500000920000000026803  Nintendo Switch Pro Controller
+
+## 2026년 1월 26일
+게임패드 자동 맵핑 DB 업데이트
+- 03000a26830500000f60000000000000  USB, GameBoard II
+- 03001351830400001057000000000000  DAHOON USB Joystick
+- 0300509d5e040000120b000000007200  Xbox Series X Controller
+- 0300536dd73700000125000000007200  Controller (Flydigi APEX5 Wireless)
+- 030055cb0d0f0000c000000000007200  Controller (FightingEdge4)
+- 030056fb7e0500000920000000006803  Nintendo Switch Pro Controller
+- 030057564c050000e60c000000016800  DualSense Wireless Controller
+- 03006ce8790000001100000000000000  USB Gamepad
+- 030082795e040000e002000000007200  Xbox One S Controller
+- 0300a755c82d00002090000000000000  Bluetooth Wireless Controller
+- 0300ffa4120c0000300c000000016800  Brook P4 Wired Gamepad V2.8
+  
 ## 2026년 1월 8일
 에뮬레이터 롬 리트스 로딩 속도 개선
 
