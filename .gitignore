@@ -1,0 +1,35 @@
+# 실행 중 생성되는 개인정보 및 라이브러리
+user/
+configs/
+chrome_profile/
+logs/
+launcher_temp/
+tmp_scrape/
+l_libs/
+reports/
+lab_data/
+*.local.json
+*_log.txt
+log_*.txt
+.ruff_cache/
+.env
+.env.*
+!.env.example
+*.log
+*.dat
+*.db
+*.sqlite*
+
+# 바이너리와 개발 환경
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+*.exe
+*.dll
+*.zip
+*.bak
+*.backup
+
+# 공개 대상은 검토한 파일만 명시적으로 추가한다.

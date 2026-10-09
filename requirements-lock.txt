@@ -1,0 +1,24 @@
+# Verified Windows x64 / CPython 3.10 environment; package versions, not artifact hashes.
+beautifulsoup4==4.13.4
+certifi==2026.7.22
+charset-normalizer==3.5.2
+comtypes==1.4.11
+idna==3.20
+pillow==10.4.0
+psutil==7.0.0
+pycaw==20240210
+pygame==2.6.1
+PyGetWindow==0.0.9
+PyRect==0.2.0
+PySide6==6.9.0
+PySide6_Addons==6.9.0
+PySide6_Essentials==6.9.0
+pywin32==310
+requests==2.32.3
+setuptools==65.5.0
+shiboken6==6.9.0
+soupsieve==2.10
+typing_extensions==4.16.0
+urllib3==2.8.0
+websocket-client==1.8.0
+WMI==1.5.1

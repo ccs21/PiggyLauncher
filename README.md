@@ -1,62 +1,67 @@
-# PiggyLauncher
-![image](https://github.com/user-attachments/assets/9ad37187-d987-4138-9378-ca76a4f8cabf)
+# Piggy Launcher Classic — 학습용 소스 아카이브
 
+> **현재 사용자를 위한 런처는 Piggy Launcher 2.0입니다.**
+> [공식 홈페이지](https://piggylauncher.dothome.co.kr/) · [2.0 공식 GitHub](https://github.com/ccs21/PiggyLauncher2.0) · [2.0 다운로드](https://github.com/ccs21/PiggyLauncher2.0/releases)
+>
+> 공식 홈페이지는 2.0 공개 전에 2.0 안내 페이지로 개편할 예정입니다.
 
-사용법 및 안내 : [위키 페이지로 이동](https://github.com/ccs21/PiggyLauncher/wiki)
+Classic의 최종 상태를 바탕으로 Python 학습과 코드 참고를 위해 준비하는 저장소입니다. 공개 후 이 저장소의 기능 업데이트와 유지보수는 제공하지 않습니다. 자유로운 재사용과 포크를 통한 수정본 개발을 환영합니다.
 
-다운로드 : [크롬 브라우저 필수](https://www.google.com/intl/ko_kr/chrome/) / [다운로드 페이지로 이동](https://drive.google.com/drive/folders/1xjUxd9TQ4-nX_mDwoEPnzylVSGKKspWv?usp=drive_link)
+## 이 코드를 공개하는 이유
 
-버그리포트 : [버그리포트](https://kwtech.co.kr:5443/bug-report)
-***
-# 커피 한잔으로 응원 해 주세요
-[![kofi](https://github.com/user-attachments/assets/c5bc947c-4b52-4013-b432-f898bd6bea87)](https://smartstore.naver.com/retrogboy/products/11971195682)
+개발자는 Python에 익숙하지 않던 시기에 GPT-4가 제공한 예제를 읽고 수정하며 Classic을 만들었습니다. 프로젝트를 네다섯 번 다시 시작하고, 실제 사용 중 만난 문제를 해결하며 완성한 프로그램입니다.
 
-Piggy Launcher는 여러분의 응원과 후원으로 유지됩니다.
+소프트웨어의 배포와 관리는 2.0에서 이어갑니다. 이 저장소는 Classic의 개발을 재개하기 위한 곳이 아니라, 코드를 읽고 직접 수정하면서 개발을 배우려는 사람에게 참고 자료를 제공하기 위한 곳입니다.
 
-후원금은 Piggy Launcher의 유지보수와 서버 운영 비용으로 사용 됩니다.
+완성된 코드뿐 아니라 문제를 발견한 과정, 구현을 선택한 이유, 남아 있는 한계를 설명하는 것을 목표로 합니다. 현재 구현을 유일한 정답으로 제시하지 않습니다.
 
-## 후원자 특전
+## 코드 정리에 대한 안내
 
-후원을 1회 이상 해 주신 이용자 분들께는 아래의 특전을 드립니다.
+원래 Piggy Launcher Classic은 Retro-G-Boy가 개발했습니다. 이 공개본의 소스는 **GPT-6을 이용해 코드 정리 및 주석을 보완한 코드**입니다. 원래 개발 과정과 공개를 위한 편집 작업을 구분해 읽어 주세요. AI의 도움으로 정리했다는 사실이 코드의 무결성이나 서비스의 지속 동작을 보장하지는 않습니다.
 
-- 카테고리 생성제한 10 → 30 상향
-- 수동등록 / 수정 모드에서 메타데이터 검색 기능 활성화
-- 배치 실행 설정 제한 1개 → 3개 상향
-- 고급 설정 기능 (실행 시 해상도/볼륨 변경) 활성화
-- 자동 업데이트 설정 활성화
-- 후원 횟수에 따라 감사의 마음을 담은 작은 선물을 보내드립니다.
+## 공개본 구성
 
+사용 소스 선별, 비밀정보·운영 연결·광고·후원·등급 제한 제거와 독립 예제 작성을 마쳤습니다. [검증 범위와 한계](docs/REVIEW_RESULTS.md)를 확인하세요.
 
+- 원본 Classic 프로젝트는 별도로 보존합니다.
+- 서버·관리 도구·백업·사용자 계정·개인 게임 목록은 포함하지 않습니다.
+- 광고·후원·회원 등급 검사와 잠금 UI를 제거하고 로컬 기능을 모두 개방합니다.
+- 운영 서비스 연결과 실행형 공식 자동 업데이트를 제거합니다.
+- 서버 학습 자료는 가상 주소·가상 데이터로 새로 작성합니다. 운영 서버의 코드·구성·API 명세를 전재하지 않습니다.
+- API 자격 증명과 브라우저 프로필은 배포하지 않습니다.
+- 사용하지 않는 것으로 보이는 코드는 동적 호출까지 확인하고 제외합니다.
 
-***
+## 개발 환경과 실행 안내
 
-# 구글 로그인을 이용하는 목적
-구글 로그인을 이용해서 수집하는 개인정보 중 이용되는 항목은 E-Mail 주소와 프로필 사진 입니다.
+원본의 개발 환경은 Windows / Python 3.10 / PySide6입니다. 학습용 소스를 실행하려면 프로젝트 루트에서 다음 명령을 사용합니다.
 
-E-Mail 주소는 사용자를 식별하기 위해 사용 합니다.
+```powershell
+py -3.10 -m venv .venv
+.venv\Scripts\python -m pip install -r requirements.txt
+.venv\Scripts\python main.py
+```
 
-프로필 사진은 런쳐의 프로필 탭에 표시하기 위해 사용 합니다.
+처음에는 빈 로컬 설정과 라이브러리를 만듭니다. 기존 Classic 설정 폴더를 복사하지 마세요. API 설정은 [키 설정 안내](wiki/API_SETUP.md)를 따릅니다. 기존 아트워크는 중립적인 예제 이미지로 교체했고, 외부 EXE를 요구하는 기능은 [별도 도구 안내](THIRD_PARTY.md)를 확인하세요.
 
-이외의 개인정보는 수집/사용하지 않고 있습니다.
+Windows / Python 3.10의 새 가상환경에서 의존성 설치, 패키지 충돌 검사, 자동 테스트와 오프스크린 UI 생성을 확인했습니다. 검증 당시 정확한 패키지 버전은 requirements-lock.txt에 있습니다. 같은 버전으로 설치하려면 위 명령의 requirements.txt를 requirements-lock.txt로 바꾸세요. EXE 빌드 및 전체 실게임 테스트는 검증 범위에 포함하지 않습니다.
 
-로그인 및 개인정보 수집의 목적은 런쳐 사용량 통계 및 버그 리포팅, 후원자 집계 등을 위함입니다.
+## 코드 안내
 
-로그인을 하지 않아도 대부분의 기능을 사용 할 수 있습니다.
-***
-# 라이선스 안내
+[학습 순서와 자료 구성](docs/LEARNING_GUIDE.md) · [코드 정리 원칙](docs/EDITORIAL_POLICY.md) · [서버 교재 구성](wiki/README.md)
 
-개발자 : 레트로겜보이(돼둥이)
+[코드 지도](docs/SOURCE_MAP.md) · [파일별 처리 목록](docs/FILE_DISPOSITION.md) · [공개본 변경 사항](docs/CHANGES_FOR_LEARNING.md) · [구현 사례](docs/CASE_STUDIES.md)
 
-Piggy Launcher는 상용 소프트웨어입니다.
-무단 배포 또는 리버스 엔지니어링을 금지합니다.
+서버 교재는 실행 명령·예상 결과·실패 실험을 포함한 6개 장과 독립 예제를 제공합니다. 로컬 세션, SQLite 공지 저장·백업, 페이지 조회와 영속 큐를 실습할 수 있습니다. 실제 OAuth와 외부 서버 배포에 필요한 확장 작업도 구분해 설명합니다.
 
+## 라이선스
 
+직접 작성한 소스·교재·중립 예제 도형에는 [MIT 라이선스](LICENSE)를 적용합니다. 재사용·상업적 이용·포크 및 수정본 배포가 가능하며 저작권과 허가 고지를 유지해야 합니다. 외부 구성요소에는 각자의 라이선스가 적용됩니다. [외부 구성요소 고지](THIRD_PARTY.md)와 [의존성 라이선스 목록](docs/DEPENDENCY_LICENSES.md)을 확인하세요.
 
+## 유지보수 정책
 
-Created by 레트로겜보이(돼둥이)
+이 저장소는 최종 소스의 학습용 아카이브입니다. 업데이트, 버그 수정, 기능 요청 대응 및 Pull Request 병합은 예정되어 있지 않습니다. 필요한 수정은 자신의 포크에서 진행할 수 있습니다. API와 웹사이트가 변경되면 관련 기능이 동작하지 않을 수 있습니다.
 
-Piggy Launcher is proprietary software.
-Unauthorized distribution or reverse engineering is prohibited.
+## 함수와 흐름 검수
 
-***
-<img width="171" height="77" alt="plauncher" src="https://github.com/user-attachments/assets/5a66eb70-0d02-4ad1-874d-adbf6f836d62" />
+- [검수·수정 사례](docs/FUNCTION_REVIEW.md): 사용하지 않는 블록과 상태/스레드 결함을 어떻게 구분했는지 설명합니다.
+- [전체 함수 색인](docs/FUNCTION_INDEX.md): 파일별 함수와 읽기 단서입니다.
