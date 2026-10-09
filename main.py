@@ -327,12 +327,12 @@ if __name__ == "__main__":
             except:
                 pass
     app = QApplication(sys.argv)
-    app.setWindowIcon(QIcon("theme/default/placeholder.svg"))
+    app.setWindowIcon(QIcon(os.path.join(theme_dir, "default_profile.png")))
     try:
         start_cleaner_thread()
     except Exception as e:
         logging.getLogger(__name__).debug("작업 실패: %s", type(e).__name__)
-    splash = SplashWindow("theme/default/placeholder.svg")
+    splash = SplashWindow(os.path.join(theme_dir, "default_profile.png"))
     app.processEvents()
     dummy_window = QMainWindow()
     dummy_window.showFullScreen()

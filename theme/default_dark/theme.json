@@ -1,0 +1,335 @@
+{
+  "background": {
+    "main": {
+      "type": "color",
+      "value": "#353535"
+    },
+    "popup": {
+      "type": "color",
+      "value": "#555555"
+    },
+    "game_detail": {
+      "type": "color",
+      "value": "#000000"
+    },
+    "top_bar": {
+      "type": "color",
+      "value": "transparent"
+    },
+    "bottom_bar": {
+      "type": "color",
+      "value": "transparent"
+    },
+    "central": {
+      "type": "color",
+      "value": "transparent"
+    },
+    "detail_screen": {
+      "type": "color",
+      "value": "#555555"
+    },
+    "cat_focus": {
+      "type": "color",
+      "value": "#7c7c7c"
+    },
+    "user_description": {
+      "type": "color",
+      "value": "#555555"
+    }
+  },
+  "tabs": {
+    "selected": {
+      "background": {
+        "type": "color",
+        "value": "#2C2C2C"
+      },
+      "text_color": "#FFFFFF",
+      "border_color": "#FFFFFF",
+      "border_width": 2
+    },
+    "unselected": {
+      "background": {
+        "type": "color",
+        "value": "#555555"
+      },
+      "text_color": "#FFFFFF",
+      "border_color": "#FFFFFF",
+      "border_width": 2
+    }
+  },
+  "fonts": {
+    "시간": {
+      "family": "맑은 고딕",
+      "file": "",
+      "size": 40,
+      "bold": true,
+      "color": "#FFFFFF"
+    },
+    "와이파이": {
+      "family": "맑은 고딕",
+      "file": "",
+      "size": 40,
+      "bold": true,
+      "color": "#FFFFFF"
+    },
+    "배터리": {
+      "family": "맑은 고딕",
+      "file": "",
+      "size": 30,
+      "bold": true,
+      "color": "#FFFFFF"
+    },
+    "카드정보": {
+      "family": "맑은 고딕",
+      "file": "",
+      "size": 24,
+      "bold": false,
+      "color": "#FFFFFF"
+    },
+    "탭": {
+      "family": "맑은 고딕",
+      "file": "",
+      "size": 28,
+      "bold": false,
+      "color": "#FFFFFF"
+    },
+    "팝업라벨": {
+      "family": "맑은 고딕",
+      "file": "",
+      "size": 22,
+      "bold": false,
+      "color": "#FFFFFF"
+    },
+    "팝업버튼": {
+      "family": "맑은 고딕",
+      "file": "",
+      "size": 20,
+      "bold": true,
+      "color": "#FFFFFF"
+    },
+    "게임패드매핑": {
+      "family": "맑은 고딕",
+      "file": "",
+      "size": 18,
+      "bold": false,
+      "color": "#FFFFFF"
+    },
+    "카테고리입력": {
+      "family": "맑은 고딕",
+      "file": "",
+      "size": 22,
+      "bold": false,
+      "color": "#FFFFFF"
+    },
+    "카테고리라벨": {
+      "family": "맑은 고딕",
+      "file": "",
+      "size": 26,
+      "bold": false,
+      "color": "#FFFFFF"
+    },
+    "체크박스": {
+      "family": "맑은 고딕",
+      "file": "",
+      "size": 22,
+      "bold": false,
+      "color": "#FFFFFF"
+    },
+    "게임리스트": {
+      "family": "맑은 고딕",
+      "file": "",
+      "size": 30,
+      "bold": true,
+      "color": "#FFFFFF"
+    },
+    "알림영역": {
+      "family": "맑은 고딕",
+      "file": "",
+      "size": 20,
+      "bold": false,
+      "color": "#FFFFFF"
+    },
+    "상세_플랫폼": {
+      "family": "맑은 고딕",
+      "file": "",
+      "size": 48,
+      "bold": true,
+      "color": "#FFFFFF"
+    },
+    "상세_제목": {
+      "family": "맑은 고딕",
+      "file": "",
+      "size": 52,
+      "bold": true,
+      "color": "#FFFFFF"
+    },
+    "상세_메타": {
+      "family": "맑은 고딕",
+      "file": "",
+      "size": 36,
+      "bold": true,
+      "color": "#FFFFFF"
+    },
+    "프로그램정보": {
+      "family": "맑은 고딕",
+      "file": "",
+      "size": 16,
+      "bold": true,
+      "color": "#FFFFFF"
+    },
+    "카테고리_팝업": {
+      "family": "맑은 고딕",
+      "file": "",
+      "size": 30,
+      "bold": true,
+      "color": "#FFFFFF"
+    }
+  },
+  "popup": {
+    "background_color": "#555555",
+    "text_color": "#FFFFFF",
+    "font_size": 22,
+    "confirm_button_background_color": "#010dad",
+    "confirm_button_text_color": "#FFFFFF",
+    "cancel_button_background_color": "#929292",
+    "cancel_button_text_color": "#FFFFFF",
+    "button_font_size": 20,
+    "loading_gif": "loading.gif"
+  },
+  "icons": {
+    "default_profile": "default_profile.png",
+    "setting": "icons/setting.png",
+    "ethernet": "icons/ethernet.png",
+    "wifi0": "icons/wifi0.png",
+    "wifi15": "icons/wifi15.png",
+    "wifi40": "icons/wifi40.png",
+    "wifi65": "icons/wifi65.png",
+    "wifi90": "icons/wifi90.png",
+    "batt0": "icons/batt0.png",
+    "batt10": "icons/batt10.png",
+    "batt30": "icons/batt30.png",
+    "batt60": "icons/batt60.png",
+    "batt90": "icons/batt90.png",
+    "batt100": "icons/batt100.png",
+    "batt_c30": "icons/batt_c30.png",
+    "batt_c70": "icons/batt_c70.png",
+    "batt_c100": "icons/batt_c100.png",
+    "update_ok": "icons/update_ok.png",
+    "update_now": "icons/update_now.png",
+    "view_change": "icons/view_change.png",
+    "view_default": "icons/view_default.png",
+    "close": "icons/close.png",
+    "empty_game": "empty_game.png",
+    "game_auto_register": "icons/g_auto_reg.png",
+    "game_self_register": "icons/g_self_reg.png",
+    "edit_metadata": "icons/g_emul.png",
+    "run_game": "icons/run_game.png",
+    "graphic_config": "icons/gra_setting.png",
+    "graphic_config_no": "icons/gra_setting_no.png",
+    "batch_setting": "icons/bat_setting.png",
+    "no_img": "no_img.png",
+    "no_header": "no_header.png",
+    "no_bg": "bg/no_bg.png",
+    "tgbutton_off": "icons/tgbutton_off.png",
+    "tgbutton_on": "icons/tgbutton_on.png",
+    "tgbutton_nota": "icons/tgbutton_nota.png",
+    "edit": "icons/edit.png",
+    "delete": "icons/delete.png",
+    "category": "icons/category.png",
+    "reflash": "icons/reflash.png",
+    "scrap": "icons/scrap.png",
+    "search": "icons/search.png"
+  },
+  "emul": {
+    "3do": "emul/3do.png",
+    "atari_5200": "emul/atari5200.png",
+    "arduboy": "emul/arduboy.png",
+    "bbcmicro": "emul/acornbbcmicro.png",
+    "super_nes": "emul/superfamicom.png",
+    "wonderswan": "emul/bandaiwonderswan.png",
+    "game_boy": "emul/color.png",
+    "game_boy_advance": "emul/gameboyadvance.png",
+    "atari_lynx": "emul/atarilynx.png",
+    "neo_geo_pocket": "emul/neogeopocket.png",
+    "pc_fx": "emul/necpcfx.png",
+    "pc_engine": "emul/pc_engine.png",
+    "playstation": "emul/playstation.png",
+    "sega_saturn": "emul/sega_saturn.png",
+    "virtual_boy": "emul/virtual_boy.png",
+    "msx": "emul/msx.png",
+    "colecovision": "emul/colecovision.png",
+    "nes": "emul/nes.png",
+    "cpc": "emul/cpc.png",
+    "cdi": "emul/cdi.png",
+    "3ds": "emul/3ds.png",
+    "arcade": "emul/arcade.png",
+    "nds": "emul/nds.png",
+    "gamecube": "emul/gamecube.png",
+    "wii": "emul/wii.png",
+    "dos": "emul/dos.png",
+    "zx81": "emul/zx81.png",
+    "master_system": "emul/master_system.png",
+    "pico8": "emul/pico8.png",
+    "neogeo": "emul/neogeo.png",
+    "dreamcast": "emul/dreamcast.png",
+    "intellivision": "emul/intellivision.png",
+    "J2ME": "emul/J2ME.png",
+    "commodore_c64": "emul/commodore_c64.png",
+    "commodore_amiga": "emul/commodore_amiga.png",
+    "zx_spectrum": "emul/zx_spectrum.png",
+    "gg": "emul/gg.png",
+    "mega_drive": "emul/mega_drive.png",
+    "handheldelectronic": "emul/handheldelectronic.png",
+    "p2000t": "emul/p2000t.png",
+    "mac68k": "emul/mac68k.png",
+    "nintendo_64": "emul/nintendo_64.png",
+    "pc_98": "emul/pc_98.png",
+    "odyssey2": "emul/odyssey2.png",
+    "playstation2": "emul/playstation2.png",
+    "playstation3": "emul/playstation3.png",
+    "pokemon_mini": "emul/pokemon_mini.png",
+    "supervision": "emul/supervision.png",
+    "playstation_portable": "emul/playstation_portable.png",
+    "playstation_vita": "emul/playstation_vita.png",
+    "atari_7800": "emul/atari_7800.png",
+    "sharp_x68000": "no_img.png",
+    "pc_88": "emul/pc_88.png",
+    "mega_duck": "emul/mega_duck.png",
+    "atari_2600": "emul/atari_2600.png",
+    "uzebox": "emul/uzebox.png",
+    "vectrex": "emul/vectrex.png",
+    "commodore_c128": "emul/commodore_c128.png",
+    "atari_jaguar": "emul/atari_jaguar.png",
+    "sharp_x1": "emul/sharp_x1.png",
+    "nsw": "emul/nsw.png",
+    "xbox": "emul/xbox.png",
+    "x360": "emul/x360.png",
+    "atari_st": "emul/atari_st.png"
+  },
+  "focus": {
+    "top": {
+      "border_color": "orange",
+      "border_width": 4
+    },
+    "bottom": {
+      "border_color": "orange",
+      "border_width": 4
+    },
+    "card": {
+      "border_color": "orange",
+      "border_width": 6,
+      "radius": 8
+    }
+  },
+  "platform_icons": {
+    "Steam": "icons/steam.png",
+    "Epic": "icons/epic.png",
+    "GOG": "icons/gog.png",
+    "STOVE": "icons/stove.png",
+    "User": "icons/user.png",
+    "emul": "icons/emul.png"
+  },
+  "notify": {
+    "sound": "noti.wav"
+  }
+}
